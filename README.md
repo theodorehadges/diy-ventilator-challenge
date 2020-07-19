@@ -16,14 +16,20 @@ It has a single point of contact on top (like a thumb) and a flat surface on bot
 
 <hr>
 
-### Some cool videos
+## Some cool videos
+
+<hr>
 
 
 ![Rotating Arbor Vent](https://github.com/theodorehadges/diy-ventilator-challenge/blob/master/media/rotating-ventilator.gif)   
 **Figure 2:** A neat animation of our design.
 
+<hr>
+
 ![Subtitled Vent](https://github.com/theodorehadges/diy-ventilator-challenge/blob/master/media/subtitled-vent.gif)  
 **Figure 3:** A subtitled video annotating some of the Arbor Vent's key features.
+
+<hr>
 
 ![Control Panel](https://github.com/theodorehadges/diy-ventilator-challenge/blob/master/media/control-panel.gif)  
 **Figure 4:** A control panel prototype showing how doctors/nurses may select BVM and frequency parameters.
