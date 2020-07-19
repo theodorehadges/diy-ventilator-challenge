@@ -7,9 +7,23 @@ we were tasked with designing a DIY solution to the global ventilator shortage p
 <img src="https://github.com/theodorehadges/diy-ventilator-challenge/blob/master/media/arbor_vent_realview.PNG" width="500" />   
 
 **Figure 1:** Our ventilator design, the *Arbor Vent*, inspired by the mechanics of an Arbor Press, 
-is a rack-and-pinion-based squeezing tool which emulates the dynamics of a human hand squeezing a Bag Valve Mask.
+is a rack-and-pinion-based squeezing tool which emulates the dynamics of a human hand squeezing a Bag Valve Mask (BVM).
 It has a single point of contact on top (like a thumb) and a flat surface on bottom (like a palm).  
 
 <hr>
 
-### [View Design Proposal](https://github.com/theodorehadges/diy-ventilator-challenge/blob/master/media/design-proposal.pdf)
+#### [View Design Proposal](https://github.com/theodorehadges/diy-ventilator-challenge/blob/master/media/design-proposal.pdf)  
+
+<hr>
+
+### Some cool videos
+
+
+![Rotating Arbor Vent](https://github.com/theodorehadges/diy-ventilator-challenge/blob/master/media/rotating-ventilator.gif)   
+**Figure 2:** A neat animation of our design.
+
+![Subtitled Vent](https://github.com/theodorehadges/diy-ventilator-challenge/blob/master/media/subtitled-vent.gif)  
+**Figure 3:** A subtitled video annotating some of the Arbor Vent's key features.
+
+![Control Panel](https://github.com/theodorehadges/diy-ventilator-challenge/blob/master/media/control-panel.gif)  
+**Figure 4:** A control panel prototype showing how doctors/nurses may select BVM and frequency parameters.
